@@ -71,6 +71,8 @@ enabled_plugins:
 search:
   safe_search: 2
   autocomplete: 'google'
+  - html
+  - json
 engines:
   - name: google
     engine: google
